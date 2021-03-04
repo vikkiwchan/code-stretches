@@ -1,0 +1,16 @@
+{
+  "name": "Code-Stretches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3-3-Backspace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 3-3-Backspace.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
